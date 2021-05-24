@@ -7,12 +7,6 @@ import java.util.Scanner;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-/*
- *  Demo files:
- *  
- *  \Users\Cameron\Desktop\Semester Materials\Java Homework\Unit 3\Homework 2 - Sudoku\SudokuPuzzle.txt
- */
-
 public class SudokuSolver 
 {
 	
